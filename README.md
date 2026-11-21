@@ -1,6 +1,6 @@
 # 🌌 ASCII Art - Generative & Procedural Terminal Visualizers
 
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/python-3.14%2B-blue.svg)](https://www.python.org/)
 [![Graphics Engine](https://img.shields.io/badge/engine-pygame--ce-green.svg)](https://pyga.me/)
 [![Math Compute](https://img.shields.io/badge/compute-numpy-orange.svg)](https://numpy.org/)
 [![Status](https://img.shields.io/badge/status-active%20development-brightgreen.svg)](#coming-soon--roadmap)
